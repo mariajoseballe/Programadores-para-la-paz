@@ -1,0 +1,15 @@
+1. ¿Qué es Node.js?
+Es un entorno de ejecución que permite usar JavaScript fuera del navegador, ideal para crear servidores y aplicaciones backend.
+
+2. ¿Qué es Express?
+Es un framework de Node.js que facilita la creación de servidores web y APIs de manera rápida y sencilla.
+
+3. ¿Qué comando se usa para iniciar un proyecto Node.js?
+npm init -y
+
+4. ¿Qué comando se usa para instalar Express?
+npm install express
+
+5. ¿Qué puerto usa el servidor en este ejercicio?
+El puerto 3000.
+
