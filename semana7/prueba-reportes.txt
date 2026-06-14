@@ -1,0 +1,17 @@
+Se envió un reporte con POST a http://localhost:3000/reportes:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor respondió confirmando el registro y asignó id: 1.
+Luego, al consultar con GET http://localhost:3000/reportes, la respuesta fue:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
