@@ -1,0 +1,13 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+Propósito: Guardar las causas comunitarias registradas en la plataforma.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+Propósito: Registrar los apoyos que recibe cada causa para medir la participación ciudadana.
